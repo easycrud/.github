@@ -1,6 +1,5 @@
 This project is aimed at providing a series of handy packages for the development of a classic CRUD web application.  
-The packages are work around a standard database table definition schema writter in JSON.   
-An example is provided below and the full definition can found here: [TableDefinition](https://github.com/easycrud/toolkits/blob/master/index.d.ts#L86)
+The packages are work around one kind of standard database table definition schema writter in JSON. An example is provided below and the full definition can found here: [TableDefinition](https://github.com/easycrud/toolkits/blob/master/index.d.ts#L86)
 
 ```
 {
